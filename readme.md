@@ -19,6 +19,10 @@ Detta projekt övervakar temperatur och luftfuktighet med hjälp av en **ESP32**
 3. AWS IoT Core lagrar data i DynamoDB via IoT-regler.
 4. Grafana hämtar data via en API Gateway och Lambda.
 ![Esp32_DHT11](https://github.com/user-attachments/assets/160020f5-0bb5-4b00-8a75-2cd808081e1f)
+![Grafana_aws](https://github.com/user-attachments/assets/c749c7d6-f583-465b-aa00-d4c3b6cbfc45)
+![Grafana_aws](https://github.com/user-attachments/assets/38842b85-1588-46e4-8c1d-b36bac2d5ff1)
+
+
 
 ---
 
